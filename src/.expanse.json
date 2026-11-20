@@ -372,62 +372,6 @@
         1
       ]
     },
-    "9128dfbd-f0c6-4718-af6c-634354032828": {
-      "components": {
-        "__inre_aparicion__": {
-          "id": "__inre_aparicion__",
-          "name": "inre-aparicion",
-          "parameters": {
-            "cubo": 0.75,
-            "demora": 0,
-            "esGltf": false,
-            "esTextura": true,
-            "esVideo": true
-          }
-        }
-      },
-      "geometry": {
-        "type": "plane",
-        "width": 4,
-        "height": 4
-      },
-      "id": "9128dfbd-f0c6-4718-af6c-634354032828",
-      "material": {
-        "type": "video",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/1.mov"
-        },
-        "inreMaterial": "1"
-      },
-      "name": "Plano",
-      "order": 0.6762635950304718,
-      "parentId": "91bc027d-24ec-43aa-a7ae-831eae2a0750",
-      "position": [
-        0,
-        -5.551115123125783e-17,
-        0.25
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1.0000000000000002
-      ],
-      "scale": [
-        0.14,
-        0.25,
-        1
-      ],
-      "shadow": {
-        "receiveShadow": true
-      },
-      "videoControls": {
-        "loop": true,
-        "paused": false
-      }
-    },
     "91bc027d-24ec-43aa-a7ae-831eae2a0750": {
       "components": {},
       "geometry": null,
@@ -520,6 +464,62 @@
         0,
         0,
         0.25
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1.0000000000000002
+      ],
+      "scale": [
+        0.14,
+        0.25,
+        1
+      ],
+      "shadow": {
+        "receiveShadow": true
+      },
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "cecfa80b-8311-4eec-9856-e6367cbd1e03": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 4,
+        "height": 4
+      },
+      "id": "cecfa80b-8311-4eec-9856-e6367cbd1e03",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/1.mp4"
+        },
+        "inreMaterial": "1"
+      },
+      "name": "Plano",
+      "order": 0.1303030102141468,
+      "parentId": "91bc027d-24ec-43aa-a7ae-831eae2a0750",
+      "position": [
+        0,
+        -5.551115123125783e-17,
+        0.25000000000000006
       ],
       "rotation": [
         0,
