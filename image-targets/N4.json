@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/N4_luminance.png",
+  "resources": {
+    "originalImage": "N4_original.png",
+    "croppedImage": "N4_cropped.png",
+    "thumbnailImage": "N4_thumbnail.png",
+    "luminanceImage": "N4_luminance.png"
+  },
+  "name": "N4",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 900,
+    "height": 1600,
+    "isRotated": false,
+    "originalWidth": 900,
+    "originalHeight": 1600
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795141852084,
+  "updated": 1795141852084
+}

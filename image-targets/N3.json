@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/N3_luminance.png",
+  "resources": {
+    "originalImage": "N3_original.png",
+    "croppedImage": "N3_cropped.png",
+    "thumbnailImage": "N3_thumbnail.png",
+    "luminanceImage": "N3_luminance.png"
+  },
+  "name": "N3",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 900,
+    "height": 1600,
+    "isRotated": false,
+    "originalWidth": 900,
+    "originalHeight": 1600
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795141851902,
+  "updated": 1795141851902
+}

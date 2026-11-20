@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/N2_luminance.png",
+  "resources": {
+    "originalImage": "N2_original.png",
+    "croppedImage": "N2_cropped.png",
+    "thumbnailImage": "N2_thumbnail.png",
+    "luminanceImage": "N2_luminance.png"
+  },
+  "name": "N2",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 900,
+    "height": 1600,
+    "isRotated": false,
+    "originalWidth": 900,
+    "originalHeight": 1600
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795141851656,
+  "updated": 1795141851656
+}

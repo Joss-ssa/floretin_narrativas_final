@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/N5_luminance.png",
+  "resources": {
+    "originalImage": "N5_original.png",
+    "croppedImage": "N5_cropped.png",
+    "thumbnailImage": "N5_thumbnail.png",
+    "luminanceImage": "N5_luminance.png"
+  },
+  "name": "N5",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 900,
+    "height": 1600,
+    "isRotated": false,
+    "originalWidth": 900,
+    "originalHeight": 1600
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795141852265,
+  "updated": 1795141852265
+}

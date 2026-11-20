@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/N6_luminance.png",
+  "resources": {
+    "originalImage": "N6_original.png",
+    "croppedImage": "N6_cropped.png",
+    "thumbnailImage": "N6_thumbnail.png",
+    "luminanceImage": "N6_luminance.png"
+  },
+  "name": "N6",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 900,
+    "height": 1600,
+    "isRotated": false,
+    "originalWidth": 900,
+    "originalHeight": 1600
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795141852431,
+  "updated": 1795141852431
+}
